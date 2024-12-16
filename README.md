@@ -2,6 +2,10 @@
 
 > cria uma pasta no local especificado para ser usado pelo `tmux-sessionizer`
 
+# Instalação
+```
+go install github.com/matherique/np@latest
+```
 
 ## Uso 
 
@@ -13,4 +17,6 @@ np nome_pasta -ideias
 np nome_pasta
 ```
 Caso a pasta não exista, o sistema ira criar.
+
+
 
